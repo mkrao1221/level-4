@@ -8,4 +8,3 @@ def connect_db!
     password: 'changeme'
   )
 end 
-end
